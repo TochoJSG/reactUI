@@ -1,0 +1,18 @@
+const {MongoClient} = require('mongodb');
+
+const url = 'http://localhost:3000/';
+const cliente = new MongoClient(url);
+
+const bdName = 'libroTienda';
+
+async function conectar(){
+
+    await cliente.connect();
+    console.log('Connected successfull');
+
+    const db = cliente.db(bdName);
+
+    const collection = db.collection('tienda');
+
+    return 'done';
+}

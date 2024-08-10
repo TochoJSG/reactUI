@@ -1,0 +1,118 @@
+[			
+	{
+	"id":"1", "plataforma":"amazon","clase":"matprimas","precio":"329.00",		
+	"url":"https://amzn.to/424JB08",											
+	"title":"Bocinones",														
+	"description":"Hefty Everyday Assorted Colors Party Cups, 16 Oz, 100 Count",
+	"imBase":"art1.png",
+	"imProd":"https://m.media-amazon.com/images/I/81uf-BZz2eL._AC_SY355_.jpg"
+	},
+	{							
+	"id":"2", "plataforma":"amazon","clase":"matprimas","precio":"337.00",
+	"url":"https://amzn.to/3MvMXUm",
+	"title":"Aparato X",
+	"description":"BERRY GREEN 125 Platos Desechables Grandes, 100% de Papel Compostable Material Natural de Alta Calidad, Resistentes a los Liquidos",
+	"imBase":"art3.png",
+	"imProd":"https://m.media-amazon.com/images/I/71HZR+ThC4L._AC_SY355_.jpg"
+	},
+	{							
+	"id":"3", "plataforma":"amazon","clase":"matprimas","precio":"419.00 ",
+	"url":"https://amzn.to/3BVmieN",
+	"title":"terminal",
+	"description":"Berry Hip 50 Platos Desechables Elegantes Premium para Fiesta, Vajilla de Platos Cuadrados",
+	"imBase":"art30.png",
+	"imProd":"https://m.media-amazon.com/images/I/61ib2fwFlYL._AC_SX355_.jpg"
+	},
+	{							
+	"id":"4", "plataforma":"ml","clase":"matprima",
+	"title": "Camioneton","precio":"419.00 ",
+	"description":"Bolsa negra resistente de asa de 60 * 80 Cm + Los pliegues laterales ofrece excelente capacidad de carga, hecha con material 100% reciclado es responsable con el medio ambiente y cumple la vigente ley de uso de platico de la CDMX",
+	"url":"https://materiasprimastocha.mercadoshops.com.mx/",
+	"imBase":"art9.png","imProd":"bolsa.png"
+	},
+	{							
+	"id":"5", "plataforma":"ml","clase":"matprima","precio":"419.00 ",
+	"title":"Impresoras Prof",
+	"description":"[No Availiable]",
+	"url":"https://articulo.mercadolibre.com.mx/MLM-1367023604-vaso-de-unicel-1-litro-caja-con-20-paq-15-piezas-cu-_JM#reco_item_pos=1&reco_backend=machinalis-seller-items-pdp&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=1d7d7f1e-0140-40be-87a9-7c944c2075f9",
+	"imBase":"art27.png","imProd":"https://http2.mlstatic.com/D_NQ_NP_940083-MLM47879394014_102021-O.webp"
+	},
+	{							
+	"id":"6", "plataforma":"amazon","clase":"matprimas","precio":"419.00 ",
+	"url":"https://amzn.to/3BVmieN",
+	"title":"Silla",
+	"description":"Berry Hip 50 Platos Desechables Elegantes Premium para Fiesta, Vajilla de Platos Cuadrados, Incluye 25 Platos Grandes (25 cm) y 25 Platos medianos (16 cm)",
+	"imBase":"art29.png",
+	"imProd":"https://m.media-amazon.com/images/I/61ib2fwFlYL._AC_SX355_.jpg"
+	},
+	{							
+	"id":"7", "plataforma":"ml","clase":"matprima",
+	"title": "Camión de Volteo","precio":"419.00 ",
+	"description":"Bolsa negra resistente de asa de 60 * 80 Cm + Los pliegues laterales ofrece excelente capacidad de carga, hecha con material 100% reciclado es responsable con el medio ambiente y cumple la vigente ley de uso de platico de la CDMX",
+	"url":"https://materiasprimastocha.mercadoshops.com.mx/",
+	"imBase":"art7.png","imProd":"bolsa.png"
+	},
+	{							
+	"id":"8", "plataforma":"amazon","clase":"matprimas","precio":"419.00 ",
+	"url":"https://amzn.to/3BVmieN",
+	"title":"Router",
+	"description":"Berry Hip 50 Platos Desechables Elegantes Premium para Fiesta, Vajilla de Platos Cuadrados, Incluye 25 Platos Grandes (25 cm) y 25 Platos medianos (16 cm)",
+	"imBase":"art28.png",
+	"imProd":"https://m.media-amazon.com/images/I/61ib2fwFlYL._AC_SX355_.jpg"
+	},
+	{							
+	"id":"9", "plataforma":"ml","clase":"matprima",
+	"title": "Maquina Fabrica","precio":"419.00 ",
+	"description":"Bolsa negra resistente de asa de 60 * 80 Cm + Los pliegues laterales ofrece excelente capacidad de carga, hecha con material 100% reciclado es responsable con el medio ambiente y cumple la vigente ley de uso de platico de la CDMX",
+	"url":"https://materiasprimastocha.mercadoshops.com.mx/",
+	"imBase":"art10.png","imProd":"bolsa.png"
+	},
+	{							
+	"id":"10", "plataforma":"amazon","clase":"matprimas","precio":"329.00",
+	"url":"https://amzn.to/424JB08",
+	"title":"Maquina Y",
+	"description":"Hefty Everyday Assorted Colors Party Cups, 16 Oz, 100 Count",
+	"imBase":"art11.png",
+	"imProd":"https://m.media-amazon.com/images/I/81uf-BZz2eL._AC_SY355_.jpg"
+	},
+	{							
+	"id":"11", "plataforma":"amazon","clase":"matprimas","precio":"337.00",
+	"url":"https://amzn.to/3MvMXUm",
+	"title":"Maquina Z",
+	"description":"BERRY GREEN 125 Platos Desechables Grandes, 100% de Papel Compostable Material Natural de Alta Calidad, Resistentes a los Liquidos, Ecológico, Hecho de Fibras de Caña de Azúcar de 22.5 cm (9 Pulgadas) Color Natural",
+	"imBase":"art16.png",
+	"imProd":"https://m.media-amazon.com/images/I/71HZR+ThC4L._AC_SY355_.jpg"
+	},
+	{							
+	"id":"12", "plataforma":"amazon","clase":"matprimas","precio":"419.00 ",
+	"url":"https://amzn.to/3BVmieN",
+	"title":"Cortadora",
+	"description":"Berry Hip 50 Platos Desechables Elegantes Premium para Fiesta, Vajilla de Platos Cuadrados, Incluye 25 Platos Grandes (25 cm) y 25 Platos medianos (16 cm)",
+	"imBase":"art14.png",
+	"imProd":"https://m.media-amazon.com/images/I/61ib2fwFlYL._AC_SX355_.jpg"
+	},
+	{							
+	"id":"13", "plataforma":"amazon","clase":"matprimas","precio":"329.00",
+	"url":"https://amzn.to/424JB08",
+	"title":"Bocinones",
+	"description":"Maquinon",
+	"imBase":"art15.png",
+	"imProd":"https://m.media-amazon.com/images/I/81uf-BZz2eL._AC_SY355_.jpg"
+	},
+	{							
+	"id":"14", "plataforma":"amazon","clase":"matprimas","precio":"337.00",
+	"url":"https://amzn.to/3MvMXUm",
+	"title":"Equipo X",
+	"description":"BERRY GREEN 125 Platos Desechables Grandes, 100% de Papel Compostable Material Natural de Alta Calidad, Resistentes a los Liquidos, Ecológico, Hecho de Fibras de Caña de Azúcar de 22.5 cm (9 Pulgadas) Color Natural",
+	"imBase":"art23.jpg",
+	"imProd":"https://m.media-amazon.com/images/I/71HZR+ThC4L._AC_SY355_.jpg"
+	},
+	{							
+	"id":"15", "plataforma":"amazon","clase":"matprimas","precio":"419.00 ",
+	"url":"https://amzn.to/3BVmieN",
+	"title":"Bolsas 25kg",
+	"description":"Berry Hip 50 Platos Desechables Elegantes Premium para Fiesta, Vajilla de Platos Cuadrados, Incluye 25 Platos Grandes (25 cm) y 25 Platos medianos (16 cm)",
+	"imBase":"art25.png",
+	"imProd":"https://m.media-amazon.com/images/I/61ib2fwFlYL._AC_SX355_.jpg"
+	}
+]
